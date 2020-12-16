@@ -11,6 +11,7 @@ public class Classgit {
 		
 
 		System.out.println("git hub deneme 15 aralik ucuncu update ");
+		System.out.println("git hub deneme son guncelleme");
 	}
 
 }
