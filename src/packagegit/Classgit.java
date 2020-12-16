@@ -6,7 +6,8 @@ public class Classgit {
 		// TODO Auto-generated method stub
 
 		System.out.println("git hub deneme");
-		
+
+		System.out.println("git hub deneme 15 aralik");
 	}
 
 }
